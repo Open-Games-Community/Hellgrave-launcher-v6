@@ -1,7 +1,5 @@
 # Hellgrave-launcher-v6
 
-Official Thread: https://opengamescommunity.com/index.php?resources/hellgrave-v6-0-launcher.837/
-
 For the new version of Hellgrave v6.0 we have released a new Launcher.
 
 ![launcher1](https://github.com/Open-Games-Community/Hellgrave-launcher-v6/assets/89811188/82365276-db8b-4c24-9fdd-ed5794e2772e)
